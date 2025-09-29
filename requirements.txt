@@ -1,0 +1,9 @@
+sqlalchemy
+psycopg2-binary
+pandas
+scikit-learn
+lightgbm
+matplotlib
+seaborn
+python-dotenv
+requests

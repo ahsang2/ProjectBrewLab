@@ -1,7 +1,7 @@
 # Files:
 
 requirements.txt - requred packages to install
-.env - store environment variables here
+.env - store environment variables here (use env_template)
 
 fetch_notion_events.py - fetches events data from Notion calendar
 fetch_sales_data.py - fetches sales data from Square

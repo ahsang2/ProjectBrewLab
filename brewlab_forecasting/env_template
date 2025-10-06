@@ -1,0 +1,16 @@
+
+# Square API credentials
+SQUARE_ACCESS_TOKEN = 
+SQUARE_LOCATION_ID = 
+
+# Notion API credentials
+NOTION_API_KEY = 
+NOTION_DATABASE_ID = 
+
+# Database
+DB_HOST= localhost
+DB_PORT= 5432
+DB_NAME= brewlab_db
+DB_USER= brewlab_user
+DB_PASSWORD= brewlab_pass
+DATABASE_URL = postgresql+psycopg2://brewlab_user:brewlab_pass@localhost:5432/brewlab_db
